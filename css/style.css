@@ -98,7 +98,7 @@ main .index_titulo h2{
 
 
 
-/* EMPIEZA LA PAGINA PRODUCTOS */
+/* EMPIEZA PRODUCTOS */
 
 .prod_titulos{
     display: grid;
@@ -134,10 +134,10 @@ main .index_titulo h2{
     font-size: 1rem;
     font-family: 'Slabo 27px', serif;
 }
-/* TERMINA LA PAGINA DE PRODUCTOS */
+/* TERMINA PRODUCTOS */
 
 
-/* EMPIEZA LA PÁGINA NOSOTROS */
+/* EMPIEZA NOSOTROS */
 .nos__main .tituloNos{
     display: grid;
     padding-top: 5vh;
@@ -176,7 +176,7 @@ main .index_titulo h2{
     font-size: 1.5rem;
 }
 
-/* TERMINA LA PÁGINA NOSOTROS */
+/* TERMINA NOSOTROS */
 
 
 
